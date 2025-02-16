@@ -1,4 +1,4 @@
-//batalla naval
+//se incluyen las librerias necesarias para el programa
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
