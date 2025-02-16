@@ -1,9 +1,10 @@
+//JUEGO DE BATALLA NAVAL
 //se incluyen las librerias necesarias para el programa
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-
+// Se define variables importantes para el juego
 #define TAMANO_TABLERO 10
 #define AGUA '~'
 #define BARCO 'B'
